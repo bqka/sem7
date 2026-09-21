@@ -28,3 +28,4 @@ malware based hacking - virus, trojan, worms, ransomware
 ![[Pasted image 20260921055730.png]]
 ![[Pasted image 20260921055757.png]]
 
+![[Pasted image 20260921120852.png]]

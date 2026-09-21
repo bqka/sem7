@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "03beb8ab614d49e5",
@@ -80,7 +80,8 @@
               "title": "unit 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber/unit 1 part 2.pdf",
+                "file": "cyber/unit 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber/unit 1 part 2.pdf",
+                "file": "cyber/unit 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -221,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber/unit 1 part 2.pdf",
+                "file": "cyber/unit 2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -248,14 +249,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd227c0b050a882b",
+  "active": "1380741736636ecd",
   "lastOpenFiles": [
-    "cyber/unit 1 part 1.pdf",
-    "cyber/unit 1.md",
-    "cyber/unit 2.pdf",
     "cyber/unit 2.md",
-    "Attachments/Pasted image 20260921072620.png",
+    "cyber/unit 2.pdf",
     "cyber/unit 1 part 2.pdf",
+    "cyber/unit 1.md",
+    "Attachments/Pasted image 20260921120852.png",
+    "cyber/unit 1 part 1.pdf",
+    "Attachments/Pasted image 20260921072620.png",
     "Attachments/Pasted image 20260921055757.png",
     "Attachments/Pasted image 20260921055754.png",
     "Attachments/Pasted image 20260921055730.png",
@@ -264,7 +266,6 @@
     "Attachments/Pasted image 20260921044131.png",
     "Attachments/Pasted image 20260921044033.png",
     "Attachments/Pasted image 20260921044011.png",
-    "Attachments/Pasted image 20260921043851.png",
     "Attachments",
     "ppt1.md",
     "Welcome.md",

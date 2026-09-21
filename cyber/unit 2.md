@@ -3,9 +3,9 @@
 DTAE - Discovery, Targeting, Access, Exploitation
 
 dictionary attack (4) (prep, target, iteration, matching)
-brute force (4) (target, generation, testing, success/failur[]()e)
+brute force (4) (target, generation, testing, success/failure)
 hybrid attack (4) (seed list, mutation, testing, expansion)
-rainbow table (4) (pre computation, target hash retrieval, lookup, recover[]()y)
+rainbow table (4) (pre computation, target hash retrieval, lookup, recovery)
 credential stuffing (4) (data acquisition, automation, exploitation, unauthorized access)
 phishing (5) (target, lure creation, delivery, exploit, data theft)
 keyloggers (5) (delivery, install & persist, record, data exfiltration, exploit)
