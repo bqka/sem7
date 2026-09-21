@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "unit 1 part 1.pdf"
+                "file": "cyber/unit 1 part 1.pdf"
               },
               "icon": "lucide-file-text",
               "title": "unit 1 part 1"
@@ -26,7 +26,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "unit 1 part 2.pdf"
+                "file": "cyber/unit 1 part 2.pdf"
               },
               "icon": "lucide-file-text",
               "title": "unit 1 part 2"
@@ -38,14 +38,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "unit 2.pdf"
+                "file": "cyber/unit 2.pdf"
               },
               "icon": "lucide-file-text",
               "title": "unit 2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "03beb8ab614d49e5",
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit 1.md",
+                "file": "cyber/unit 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit 2.md",
+                "file": "cyber/unit 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,8 +80,7 @@
               "title": "unit 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unit 2.pdf",
+                "file": "cyber/unit 1 part 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unit 2.pdf",
+                "file": "cyber/unit 1 part 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unit 2.pdf",
+                "file": "cyber/unit 1 part 2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,14 +248,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "1380741736636ecd",
+  "active": "dd227c0b050a882b",
   "lastOpenFiles": [
-    "unit 2.md",
-    "unit 2.pdf",
+    "cyber/unit 1 part 1.pdf",
+    "cyber/unit 1.md",
+    "cyber/unit 2.pdf",
+    "cyber/unit 2.md",
     "Attachments/Pasted image 20260921072620.png",
-    "unit 1 part 2.pdf",
-    "unit 1 part 1.pdf",
-    "unit 1.md",
+    "cyber/unit 1 part 2.pdf",
     "Attachments/Pasted image 20260921055757.png",
     "Attachments/Pasted image 20260921055754.png",
     "Attachments/Pasted image 20260921055730.png",
