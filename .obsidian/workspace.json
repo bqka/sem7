@@ -6,82 +6,63 @@
       {
         "id": "e1ebc2ce383fdbac",
         "type": "tabs",
-        "dimension": 56.31741140215717,
         "children": [
           {
-            "id": "412516ae27a3fd55",
+            "id": "6c1cdf16acc0d17d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cyber/unit 1 part 1.pdf"
+                "file": "literature/The Old Man and the Sea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "unit 1 part 1"
+              "icon": "lucide-file",
+              "title": "The Old Man and the Sea"
             }
           },
           {
-            "id": "dd227c0b050a882b",
+            "id": "fd4437b673c450ad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cyber/unit 1 part 2.pdf"
+                "file": "literature/Sonnet 18.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "unit 1 part 2"
+              "icon": "lucide-file",
+              "title": "Sonnet 18"
             }
           },
           {
-            "id": "1380741736636ecd",
+            "id": "c6556ed8264273cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cyber/unit 2.pdf"
+                "file": "literature/The Old Man and the Sea.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "unit 2"
+              "icon": "lucide-file",
+              "title": "The Old Man and the Sea"
+            }
+          },
+          {
+            "id": "c8761f5d3300fde6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "literature/sonet intro.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "sonet intro"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "03beb8ab614d49e5",
-        "type": "tabs",
-        "dimension": 43.68258859784284,
-        "children": [
-          {
-            "id": "286a32785487551c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyber/unit 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "unit 1"
-            }
-          },
-          {
-            "id": "19d29d471e68e12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyber/unit 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "unit 2"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5ccfcdb7acb4807",
@@ -249,10 +229,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "1380741736636ecd",
+  "active": "c6556ed8264273cf",
   "lastOpenFiles": [
-    "cyber/unit 2.md",
+    "literature/Sonnet 18.md",
+    "literature/The Old Man and the Sea.md",
+    "Attachments/Pasted image 20260923121108.png",
+    "literature/Poet, Lover, Birdwatcher.md",
+    "literature/The Rainbow.md",
+    "literature/sonet intro.jpeg",
+    "Attachments/Pasted image 20260923061238.png",
+    "Attachments/Pasted image 20260923061225.png",
+    "Attachments/Pasted image 20260923061214.png",
+    "literature",
     "cyber/unit 2.pdf",
+    "marketing/unit 2 pdf.pdf",
+    "marketing/unit 1 pdf.pdf",
+    "marketing",
+    "cyber/unit 2.md",
     "cyber/unit 1 part 2.pdf",
     "cyber/unit 1.md",
     "Attachments/Pasted image 20260921120852.png",
@@ -261,11 +254,6 @@
     "Attachments/Pasted image 20260921055757.png",
     "Attachments/Pasted image 20260921055754.png",
     "Attachments/Pasted image 20260921055730.png",
-    "Attachments/Pasted image 20260921044316.png",
-    "Attachments/Pasted image 20260921044310.png",
-    "Attachments/Pasted image 20260921044131.png",
-    "Attachments/Pasted image 20260921044033.png",
-    "Attachments/Pasted image 20260921044011.png",
     "Attachments",
     "ppt1.md",
     "Welcome.md",
